@@ -1,6 +1,5 @@
 {
-	"login": "",
-	"prefix": ".",
+	"token": "",
 	"attachmentsPath": "./attachments",
 	"filesPath": "./files"
 }

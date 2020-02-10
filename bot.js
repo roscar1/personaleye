@@ -24,4 +24,4 @@ client.on('ready', () => {
 	})
 })
 
-client.login(config.login)
+client.login(config.token)
